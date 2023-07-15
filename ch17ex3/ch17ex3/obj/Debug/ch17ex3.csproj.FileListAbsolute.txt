@@ -1,0 +1,10 @@
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.Form1.resources
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.Properties.Resources.resources
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.csproj.GenerateResource.cache
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\bin\Debug\ch17ex3.exe.config
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\bin\Debug\ch17ex3.exe
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\bin\Debug\ch17ex3.pdb
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.exe
+C:\Users\miran\Desktop\ch17ex3\ch17ex3\obj\Debug\ch17ex3.pdb
